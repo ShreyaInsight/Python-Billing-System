@@ -1,6 +1,6 @@
 # 🧾 Billing System in Python (Electronic Store)
 
-
+![final](https://github.com/shivu-cmd/minecraftbedrockpc/assets/69671519/348c3e83-2d73-4896-892b-490db7548782)
 A Python-based billing system for an electronic store offering electronic devices like phones, laptops, and HDDs. This project utilizes Python fundamentals including loops, exception handling, file read/write operations, and modular design to create a complete CLI billing solution.
 
 ---
