@@ -1,6 +1,6 @@
 # 🧾 Billing System in Python (Electronic Store)
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4118113.svg)](https://doi.org/10.5281/zenodo.4118113)
 
 A Python-based billing system for an electronic store offering electronic devices like phones, laptops, and HDDs. This project utilizes Python fundamentals including loops, exception handling, file read/write operations, and modular design to create a complete CLI billing solution.
 
@@ -44,3 +44,17 @@ This project simulates a real-world billing system for an electronic store. The 
 
   ```bash
   pip install questionary
+
+## 📁 Project Structure
+
+```
+Billing-System-In-Python/
+│
+├── main.py               # Entry point for the system
+├── read.py               # Module to read product data
+├── purchase.py           # Main logic for purchase flow
+├── write.py              # Updates inventory after purchase
+├── products.txt          # Text file storing product inventory
+├── <invoice>.txt         # Invoices generated dynamically
+└── README.md             # Project documentation
+```
